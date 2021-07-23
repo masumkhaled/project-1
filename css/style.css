@@ -1,3 +1,20 @@
 body {
     margin: 0; padding: 0; font-family: Helvetica, sans-serif;
 }
+#card {
+    width: 400px;
+    height: auto;
+    background-color: aliceblue;
+    border: 3px solid #333;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+#card button {
+    background-color: aqua;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 17px;
+    border: none;
+}
